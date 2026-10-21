@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "headline": "Patient Resources",
+    "subheadline": "Everything you need to feel prepared, informed, and at ease before, during, and after your care with Bloomwell Clinic."
+  },
+  "first_appointment": {
+    "heading": "What to Expect at Your First Appointment",
+    "intro": "Your first appointment is a conversation, not an interrogation. Our goal is simply to understand you — your history, your concerns, and what you're hoping to achieve through care.",
+    "steps": [
+      {
+        "id": "a1",
+        "title": "Before Your Appointment",
+        "body": "You'll receive a secure intake form via email after scheduling. Please complete it at least 24 hours before your appointment. It covers your medical and psychiatric history, current medications, and what brings you to care. The more detail you share, the more productive your first session will be."
+      },
+      {
+        "id": "a2",
+        "title": "At the Start of Your Session",
+        "body": "Your provider will introduce themselves and walk you through how the session will flow. There's no pressure to share everything at once. The first appointment is about building a foundation of trust and gathering enough information to begin forming a care plan together."
+      },
+      {
+        "id": "a3",
+        "title": "The Evaluation",
+        "body": "Your psychiatrist will ask about your current symptoms, personal and family mental health history, sleep, relationships, work, and lifestyle. This holistic picture helps us understand not just what you're experiencing, but why — and what approaches are most likely to help."
+      },
+      {
+        "id": "a4",
+        "title": "Next Steps",
+        "body": "By the end of your first appointment, you and your provider will discuss initial impressions and possible directions for care. This may include follow-up appointments, therapy referrals, or — when appropriate and necessary — medication considerations. You'll never leave without a clear next step."
+      }
+    ]
+  },
+  "telehealth_setup": {
+    "heading": "Setting Up for Your Telehealth Appointment",
+    "intro": "Telehealth appointments are simple to join. Here's how to make sure your session goes smoothly.",
+    "steps": [
+      {
+        "id": "t1",
+        "title": "Use a Supported Device",
+        "body": "Any smartphone, tablet, or computer with a camera and microphone will work. We recommend using Google Chrome or Safari for the best experience. Make sure your browser is up to date before your appointment."
+      },
+      {
+        "id": "t2",
+        "title": "Find a Private, Quiet Space",
+        "body": "Choose a location where you feel comfortable speaking openly — a private room with a closed door is ideal. Using headphones can improve audio quality and privacy. Let others in your household know you'll need uninterrupted time."
+      },
+      {
+        "id": "t3",
+        "title": "Check Your Connection",
+        "body": "A stable Wi-Fi connection is strongly preferred over cellular data. If possible, sit close to your router. You can test your camera and microphone in your browser settings before the session begins."
+      },
+      {
+        "id": "t4",
+        "title": "Join the Session",
+        "body": "You'll receive a secure link via email before your appointment. Click the link a few minutes early to allow time for any technical checks. No app download is required — the session opens directly in your browser."
+      },
+      {
+        "id": "t5",
+        "title": "Technical Difficulties",
+        "body": "If you experience connection issues during your session, try refreshing your browser or switching to a different device. If problems persist, your provider will reach out via the contact information on file to reschedule or continue by phone."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "id": "f1",
+        "question": "Do you accept insurance?",
+        "answer": "We are currently a self-pay practice. We do not bill insurance directly, but we can provide a superbill — a detailed receipt — that you may submit to your insurance company for potential out-of-network reimbursement. We recommend contacting your insurer in advance to understand your out-of-network mental health benefits."
+      },
+      {
+        "id": "f2",
+        "question": "What states do you serve?",
+        "answer": "We currently provide telehealth psychiatric services to patients located in Texas."
+      },
+      {
+        "id": "f3",
+        "question": "What ages do you treat?",
+        "answer": "We provide psychiatric care across the full lifespan — from children and adolescents to adults and seniors. Each age group is seen by providers with specialized training in that life stage. Please note that patients under 18 require a parent or legal guardian to be present for the initial evaluation."
+      },
+      {
+        "id": "f4",
+        "question": "What is your approach to medication?",
+        "answer": "We practice medication minimalism — meaning we explore non-pharmacological approaches first and prescribe only when medication is likely to meaningfully improve your quality of life. When medication is appropriate, we start at the lowest effective dose, monitor closely, and always involve you in the decision. We never prescribe on autopilot."
+      },
+      {
+        "id": "f5",
+        "question": "How long are appointments?",
+        "answer": "Initial evaluations are typically 60 minutes. Follow-up appointments for medication management are usually 20–30 minutes. Longer follow-up sessions are available when clinically appropriate. Your provider will discuss the recommended frequency and duration of care during your first appointment."
+      },
+      {
+        "id": "f6",
+        "question": "Can I get a referral to a therapist?",
+        "answer": "Yes. We believe psychiatry and therapy work best together. While we focus on psychiatric evaluation and medication management, we actively coordinate with therapists and can provide referrals to licensed therapists in your area or via telehealth. We're happy to collaborate with a therapist you're already working with."
+      },
+      {
+        "id": "f7",
+        "question": "What if I'm in crisis?",
+        "answer": "Bloomwell Clinic is not an emergency or crisis service. If you are experiencing a psychiatric emergency, please call 988 (Suicide & Crisis Lifeline), call 911, or go to your nearest emergency room. For urgent but non-emergency concerns between appointments, please contact our office and we will do our best to respond promptly."
+      },
+      {
+        "id": "f8",
+        "question": "How do I reschedule or cancel an appointment?",
+        "answer": "Please contact us at least 24 hours before your scheduled appointment to reschedule or cancel without a fee. Late cancellations and no-shows may be subject to a cancellation fee. We understand that life happens — please reach out as early as possible and we'll do our best to accommodate you."
+      }
+    ]
+  }
+}

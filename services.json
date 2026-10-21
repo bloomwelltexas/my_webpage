@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "headline": "Psychiatric Services",
+    "subheadline": "Comprehensive psychiatric care — combining medication, psychotherapy, behavioral interventions, and other evidence-based treatment modalities, delivered via secure telehealth."
+  },
+  "intro": {
+    "heading": "Full-Spectrum Psychiatric Care.",
+    "body": "At Bloomwell Clinic, we treat the full range of psychiatric conditions across the lifespan — from early childhood through older adulthood. Our approach integrates medications chosen for multi-problem efficacy, psychotherapy, behavioral interventions, and other treatment modalities, always tailored to the individual. We don't apply a single lens to every patient; we build a care plan that reflects the complexity of who you are and what you're facing."
+  },
+  "services": [
+    {
+      "id": "child",
+      "age_group": "Children & Adolescents",
+      "age_range": "Ages: up to 17",
+      "headline": "Children & Adolescents",
+      "description": "Children and teenagers face unique psychiatric challenges that require a provider who understands neurodevelopment, family systems, and the pressures of growing up. Our child and adolescent psychiatrists work closely with patients, parents, and — when appropriate — schools and therapists to build a care plan that supports the whole child.",
+      "conditions": [
+        "ADHD & attention difficulties",
+        "Anxiety & school refusal",
+        "Depression & mood disorders",
+        "Autism spectrum support",
+        "Oppositional & behavioral concerns",
+        "Trauma & PTSD",
+        "OCD",
+        "Sleep disturbances",
+        "Disruptive mood dysregulation disorder",
+        "Early-onset bipolar disorder"
+      ],
+      "approach": "We involve parents as partners in care, not bystanders. Treatment plans integrate behavioral interventions, psychotherapy referrals, and — when clinically indicated — medications selected for multi-problem efficacy to address co-occurring conditions simultaneously. We start low, go slow, and monitor closely.",
+      "note": "Patients under 18 require a parent or legal guardian to be present for the initial evaluation."
+    },
+    {
+      "id": "adult",
+      "age_group": "Adults",
+      "age_range": "Ages 18–64",
+      "headline": "Adults",
+      "description": "Adult psychiatric care at Bloomwell Clinic goes beyond symptom management. We take time to understand the full context of your life — your relationships, work, history, and goals — and build a care plan that integrates medication, psychotherapy, and behavioral strategies to address the full scope of what you're experiencing.",
+      "conditions": [
+        "Depression & persistent low mood",
+        "Anxiety & panic disorders",
+        "Bipolar disorder",
+        "ADHD in adults",
+        "PTSD & complex trauma",
+        "OCD",
+        "Insomnia & sleep disorders",
+        "Schizoaffective & psychotic disorders",
+        "Personality disorders",
+        "Medication review & management"
+      ],
+      "approach": "We believe in shared decision-making and multi-modal treatment. Where appropriate, we select medications with multi-problem efficacy — agents that address co-occurring conditions rather than stacking separate prescriptions. Psychotherapy and behavioral interventions are integrated into every care plan, not treated as an afterthought.",
+      "note": ""
+    },
+    {
+      "id": "geriatric",
+      "age_group": "Older Adults",
+      "age_range": "Ages 65+",
+      "headline": "Older Adults",
+      "description": "Psychiatric care for older adults requires sensitivity to the unique challenges of later life — including medical complexity, polypharmacy, cognitive changes, grief, and the emotional weight of major life transitions. Our geriatric psychiatry services are designed to meet older adults where they are, with patience, expertise, and genuine respect.",
+      "conditions": [
+        "Late-life depression",
+        "Anxiety in older adults",
+        "Grief & bereavement",
+        "Cognitive concerns & mild cognitive impairment",
+        "Caregiver stress & burnout",
+        "Sleep disorders",
+        "Medication review & simplification",
+        "Adjustment to chronic illness",
+        "Behavioral symptoms of dementia"
+      ],
+      "approach": "Older adults are frequently over-medicated. We take a careful, conservative approach — reviewing existing medications for psychiatric side effects, simplifying regimens where possible, and selecting agents with favorable profiles for older adults. Non-pharmacological interventions are prioritized wherever clinically appropriate.",
+      "note": ""
+    },
+    {
+      "id": "medication",
+      "age_group": "All Ages",
+      "age_range": "Ongoing Care",
+      "headline": "Medication Management",
+      "description": "For patients already established in psychiatric care — whether with us or transferring from another provider — we offer dedicated medication management appointments. These focused sessions ensure your medications are working as intended, side effects are addressed, and your regimen is as streamlined as possible.",
+      "conditions": [
+        "Ongoing prescription management",
+        "Medication adjustments & titration",
+        "Multi-problem efficacy review",
+        "Side effect evaluation & management",
+        "Medication simplification & deprescribing",
+        "Transfer of care from another provider",
+        "Second opinions on psychiatric medications",
+        "Polypharmacy review"
+      ],
+      "approach": "We never treat medication management as a rubber-stamp exercise. Every follow-up is an opportunity to reassess whether your current regimen still makes sense — evaluating whether medications chosen for multi-problem efficacy are delivering on that promise, and reducing or discontinuing anything that is no longer serving you.",
+      "note": ""
+    }
+  ],
+  "approach": {
+    "heading": "Our Clinical Philosophy",
+    "items": [
+      {
+        "id": "ap1",
+        "title": "Multi-Modal Treatment",
+        "body": "Medication, psychotherapy, and behavioral interventions work best together. We integrate all three into every care plan rather than defaulting to a single modality."
+      },
+      {
+        "id": "ap2",
+        "title": "Multi-Problem Efficacy",
+        "body": "When medication is appropriate, we select agents that address co-occurring conditions simultaneously — reducing polypharmacy and improving tolerability across the board."
+      },
+      {
+        "id": "ap3",
+        "title": "Shared Decision-Making",
+        "body": "Every recommendation is explained in plain language. You understand the reasoning, weigh the options, and make the final call. We're your partner, not your authority."
+      },
+      {
+        "id": "ap4",
+        "title": "Whole-Person Evaluation",
+        "body": "Sleep, relationships, diet, exercise, trauma history, and physical health all influence mental health. We consider the full picture before drawing any conclusions."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Not Sure Which Service Is Right for You?",
+    "body": "Reach out and we'll help you figure it out. Our intake process is designed to match you with the right provider and service from the very first contact.",
+    "button": "Contact Us"
+  }
+}

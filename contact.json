@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "headline": "Contact Us",
+    "subheadline": "We're here to help you take the first step. Reach out with any questions about our services, scheduling, or whether Bloomwell Clinic is the right fit for you."
+  },
+  "info": {
+    "telehealth_heading": "Telehealth — No In-Person Visits Required",
+    "telehealth_body": "All appointments are conducted via secure video telehealth. You can be seen from the comfort of your home — all you need is a device with a camera and a stable internet connection.",
+    "states_heading": "Currently Serving",
+    "states": [
+      "Texas"
+    ],
+    "response_heading": "Response Time",
+    "response_body": "We aim to respond to all inquiries within one business day. For urgent but non-emergency concerns, please note that in your message and we will prioritize your response.",
+    "crisis_heading": "If You Are in Crisis",
+    "crisis_body": "Bloomwell Clinic is not a crisis or emergency service. If you or someone you know is in immediate danger, please call 988 (Suicide & Crisis Lifeline), call 911, or go to your nearest emergency room."
+  }
+}

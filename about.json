@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "headline": "About Bloomwell Clinic",
+    "subheadline": "Board-certified psychiatric care rooted in clinical rigor, genuine partnership, and a commitment to using the least intervention necessary to help you thrive."
+  },
+  "mission": {
+    "heading": "Why We Exist",
+    "body": [
+      {
+        "id": "m1",
+        "text": "Bloomwell Clinic PCCL was founded on a straightforward conviction: that psychiatric care should be thorough, honest, and built around the person — not the prescription pad. Too many patients arrive having been seen for ten minutes, handed a medication, and sent on their way. We built something different."
+      },
+      {
+        "id": "m2",
+        "text": "We take time. We ask questions that other providers skip. We consider the full context of your life — your medical history, your relationships, your sleep, your stress — before drawing any conclusions. And when treatment is needed, we choose it carefully, explain it plainly, and revisit it often."
+      }
+    ]
+  },
+  "philosophy": {
+    "heading": "Our Approach to Medication",
+    "subheading": "Medication minimalism — not medication avoidance.",
+    "body": [
+      {
+        "id": "p1",
+        "text": "We believe in using medication when it is genuinely indicated — and not using it when it isn't. When medication is the right tool, we select agents with multi-problem efficacy: medications that address co-occurring conditions simultaneously, reducing the total number of prescriptions rather than adding to them."
+      },
+      {
+        "id": "p2",
+        "text": "We start at the lowest effective dose, titrate slowly, and monitor closely. We deprescribe when medications are no longer serving you. And we never treat a prescription as a substitute for understanding what is actually going on."
+      }
+    ],
+    "pillars": [
+      {
+        "id": "pl1",
+        "label": "Start low, go slow",
+        "description": "Careful titration to find the minimum effective dose."
+      },
+      {
+        "id": "pl2",
+        "label": "Multi-problem efficacy",
+        "description": "Select agents that address co-occurring conditions at once."
+      },
+      {
+        "id": "pl3",
+        "label": "Deprescribe actively",
+        "description": "Reduce or discontinue medications that are no longer serving you."
+      },
+      {
+        "id": "pl4",
+        "label": "Explain everything",
+        "description": "Every recommendation comes with a plain-language rationale."
+      }
+    ]
+  },
+  "credentials": {
+    "heading": "Credentials & Training",
+    "items": [
+      {
+        "id": "cr1",
+        "label": "Board Certification",
+        "value": "American Board of Psychiatry and Neurology (ABPN)"
+      },
+      {
+        "id": "cr2",
+        "label": "Experience",
+        "value": "Several years of experience treating and managing the full spectrum of psychiatric disorders across inpatient, outpatient, intensive outpatient programs, emergency rooms, medical and surgical floors, rehabilitation programs, Veterans Affairs, sleep clinic, forensics, and tele-psychiatry settings."
+      },
+      {
+        "id": "cr3",
+        "label": "Licensure",
+        "value": "Licensed in Texas"
+      },
+      {
+        "id": "cr4",
+        "label": "Telehealth",
+        "value": "HIPAA-compliant secure video platform"
+      }
+    ]
+  },
+  "values": {
+    "heading": "What We Stand For",
+    "items": [
+      {
+        "id": "v1",
+        "title": "Honesty",
+        "body": "We tell you what we actually think — including when we're uncertain, when we disagree with a prior diagnosis, or when we believe medication isn't the right answer."
+      },
+      {
+        "id": "v2",
+        "title": "Thoroughness",
+        "body": "We don't rush. Initial evaluations are comprehensive. Follow-ups are substantive. We read prior records, ask follow-up questions, and think carefully before acting."
+      },
+      {
+        "id": "v3",
+        "title": "Partnership",
+        "body": "You are the expert on your own life. We bring clinical knowledge; you bring context. Good psychiatric care is a collaboration, not a prescription handed down from authority."
+      },
+      {
+        "id": "v4",
+        "title": "Continuity",
+        "body": "We build long-term relationships with our patients. Knowing you over time — how you respond to treatment, how your life changes — makes us better at caring for you."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to Get Started?",
+    "body": "Reach out to schedule an initial evaluation. We'll take the time to understand what you're facing and build a care plan that actually fits.",
+    "button": "Contact Us"
+  }
+}

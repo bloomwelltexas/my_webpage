@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "headline": "Expert Psychiatric Care, Built Around You.",
+    "subheadline": "Board-certified psychiatrists delivering compassionate, evidence-based care via secure telehealth — for children, adults, and seniors alike.",
+    "cta_primary": "Explore Our Services",
+    "cta_secondary": "Contact Us",
+    "trust_items": [
+      "Board-Certified Psychiatrists",
+      "Secure Telehealth",
+      "All Ages Welcome",
+      "Medication Minimalism"
+    ]
+  },
+  "philosophy": {
+    "pull_quote": "We believe the best outcome uses the least intervention necessary.",
+    "pull_quote_attribution": "— The Bloomwell Approach",
+    "principles": [
+      {
+        "id": "p1",
+        "title": "Patient-Centered Care",
+        "body": "Every treatment plan begins with listening. Your goals, values, and lived experience guide every clinical decision we make."
+      },
+      {
+        "id": "p2",
+        "title": "Medication Minimalism",
+        "body": "We prescribe thoughtfully and sparingly — exploring non-pharmacological approaches first and using medication only when it meaningfully improves your quality of life."
+      },
+      {
+        "id": "p3",
+        "title": "Whole-Person Psychiatry",
+        "body": "Mental health doesn't exist in isolation. We consider your relationships, environment, and physical health as part of a complete picture."
+      }
+    ]
+  },
+  "services": {
+    "heading": "Psychiatric Care for Every Stage of Life",
+    "subheading": "From childhood through the senior years, our board-certified providers offer specialized psychiatric care tailored to each life stage.",
+    "items": [
+      {
+        "id": "s1",
+        "title": "Child & Adolescent Psychiatry",
+        "description": "Specialized care for children and teens navigating ADHD, anxiety, depression, and developmental challenges.",
+        "featured": true
+      },
+      {
+        "id": "s2",
+        "title": "Adult Psychiatry",
+        "description": "Comprehensive psychiatric evaluation and treatment for adults managing mood disorders, anxiety, trauma, and more.",
+        "featured": false
+      },
+      {
+        "id": "s3",
+        "title": "Geriatric Psychiatry",
+        "description": "Sensitive, expert care for older adults facing depression, cognitive changes, grief, and late-life transitions.",
+        "featured": false
+      },
+      {
+        "id": "s4",
+        "title": "Medication Management",
+        "description": "Careful, ongoing review of psychiatric medications — always with an eye toward simplicity and your long-term wellbeing.",
+        "featured": false
+      }
+    ]
+  },
+  "credentials": {
+    "heading": "Care You Can Trust.",
+    "subheading": "Our providers bring deep expertise and genuine compassion to every appointment.",
+    "pillars": [
+      {
+        "id": "c1",
+        "stat": "100%",
+        "label": "Board-Certified Psychiatrists",
+        "detail": "Every provider holds active board certification in psychiatry from the American Board of Psychiatry and Neurology."
+      },
+      {
+        "id": "c2",
+        "stat": "15+",
+        "label": "Years Combined Experience",
+        "detail": "Our clinical team brings deep, specialized experience across the full spectrum of psychiatric conditions and life stages."
+      },
+      {
+        "id": "c3",
+        "stat": "Patient-First",
+        "label": "Always",
+        "detail": "We measure success not by prescription pads filled, but by the quality of life our patients reclaim."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Ready to Take the First Step?",
+    "body": "Reaching out is the hardest part. We make everything after that as simple and supportive as possible — from your first message to your first appointment.",
+    "button": "Contact Us"
+  }
+}
