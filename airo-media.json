@@ -1,0 +1,262 @@
+{
+  "pages/home/services-medication": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2228345198",
+    "searchQuery": "telehealth video call calm home warm light wellness consultation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2251386623",
+      "https://img1.wsimg.com/isteam/getty/2286954803",
+      "https://img1.wsimg.com/isteam/getty/2157639044"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:07.080Z",
+    "lastUpdated": "2026-10-14T18:35:07.080Z",
+    "gettyId": "2228345198",
+    "alternativeGettyIds": [
+      "2251386623",
+      "2286954803",
+      "2157639044"
+    ]
+  },
+  "pages/home/services-geriatric": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1472634406",
+    "searchQuery": "older adult senior calm warm natural light portrait peaceful",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2223338164",
+      "https://img1.wsimg.com/isteam/getty/1503012345",
+      "https://img1.wsimg.com/isteam/getty/1887472043"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:08.685Z",
+    "lastUpdated": "2026-10-14T18:35:08.685Z",
+    "gettyId": "1472634406",
+    "alternativeGettyIds": [
+      "2223338164",
+      "1503012345",
+      "1887472043"
+    ]
+  },
+  "pages/home/services-child": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1889146172",
+    "searchQuery": "child adolescent therapy calm warm light portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2244991864",
+      "https://img1.wsimg.com/isteam/getty/2192915452",
+      "https://img1.wsimg.com/isteam/getty/1436002992"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:10.436Z",
+    "lastUpdated": "2026-10-14T18:35:10.436Z",
+    "gettyId": "1889146172",
+    "alternativeGettyIds": [
+      "2244991864",
+      "2192915452",
+      "1436002992"
+    ]
+  },
+  "pages/home/services-adult": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2271826410",
+    "searchQuery": "adult calm thoughtful natural light warm portrait wellness",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2286768318",
+      "https://img1.wsimg.com/isteam/getty/2217815329",
+      "https://img1.wsimg.com/isteam/getty/750563823"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:12.188Z",
+    "lastUpdated": "2026-10-14T18:35:12.188Z",
+    "gettyId": "2271826410",
+    "alternativeGettyIds": [
+      "2286768318",
+      "2217815329",
+      "750563823"
+    ]
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2229088639",
+    "searchQuery": "person calm window light soft focus warm natural light portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2270063549",
+      "https://img1.wsimg.com/isteam/getty/2178311716",
+      "https://img1.wsimg.com/isteam/getty/2242772366",
+      "https://img1.wsimg.com/isteam/getty/1214387273"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:13.293Z",
+    "lastUpdated": "2026-10-14T18:35:13.293Z",
+    "gettyId": "2229088639",
+    "alternativeGettyIds": [
+      "2270063549",
+      "2178311716",
+      "2242772366",
+      "1214387273"
+    ]
+  },
+  "pages/home/cta-telehealth": {
+    "requestedSize": {
+      "width": 800,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2219304033",
+    "searchQuery": "telehealth video session calm home warm light laptop person",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2219304047",
+      "https://img1.wsimg.com/isteam/getty/2261220904",
+      "https://img1.wsimg.com/isteam/getty/2164957897"
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:14.891Z",
+    "lastUpdated": "2026-10-14T18:35:14.891Z",
+    "gettyId": "2219304033",
+    "alternativeGettyIds": [
+      "2219304047",
+      "2261220904",
+      "2164957897"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png",
+    "searchQuery": "A refined, warm wordmark logo for Bloomwell Clinic — the name \"Bloomwell Clinic\"",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-original-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png": {
+        "sessionId": "1371eba9-dfe1-4470-b79c-08182404d0f1",
+        "logoId": "ab260c44-292b-49b7-b913-4a7fb7f9aa98",
+        "groupId": "29e3602c-b315-4f5e-814d-23a8307ccd3d"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-mug-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-card-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-tshirt-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-box-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-mug-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-card-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-tshirt-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-mockup-box-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-10-14T18:35:54.792Z",
+    "lastUpdated": "2026-10-14T18:36:19.602Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#f5efe0",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/1371eba9-dfe1-4470-b79c-08182404d0f1/horizontal-transparent-ab260c44-292b-49b7-b913-4a7fb7f9aa98/logo-logo.png",
+    "logoGroupId": "29e3602c-b315-4f5e-814d-23a8307ccd3d"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/f72021af-88c0-490c-8d2a-ecc89d14e7f9/favicon-transparent-eff07a23-dd42-4ea2-862f-95cd46080f08/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/f72021af-88c0-490c-8d2a-ecc89d14e7f9/favicon-transparent-eff07a23-dd42-4ea2-862f-95cd46080f08/logo-logo.png": {
+        "sessionId": "f72021af-88c0-490c-8d2a-ecc89d14e7f9",
+        "logoId": "eff07a23-dd42-4ea2-862f-95cd46080f08",
+        "groupId": "29e3602c-b315-4f5e-814d-23a8307ccd3d"
+      }
+    },
+    "logoGroupId": "29e3602c-b315-4f5e-814d-23a8307ccd3d",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/f72021af-88c0-490c-8d2a-ecc89d14e7f9/favicon-transparent-eff07a23-dd42-4ea2-862f-95cd46080f08/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/f72021af-88c0-490c-8d2a-ecc89d14e7f9/favicon-original-eff07a23-dd42-4ea2-862f-95cd46080f08/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-10-14T18:36:07.644Z",
+    "lastUpdated": "2026-10-14T18:36:19.784Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#f5efe0",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/223a609f-0ff8-4df1-997c-ce33eb94774c/session/f72021af-88c0-490c-8d2a-ecc89d14e7f9/favicon-transparent-eff07a23-dd42-4ea2-862f-95cd46080f08/logo-logo.png"
+  }
+}
